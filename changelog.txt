@@ -1,0 +1,34 @@
+24/06/2017
+  Separacao das funcoes em arquivos de cabecalhos
+26/10/2006
+	Analise do projeto
+02/11/2006
+	Inicio do desenvolvimento
+	Menu principal
+	Realiza Simulados
+03/11/2006
+	Criacao das funcoes auxiliares
+	Aperfeicoamento da rotina realiza simulados
+03/11/2006
+	Correcoes de bugs
+06/11/2006
+	Solucao definitiva para leitura somente nos arquivos para achar as perguntas e respostas
+08/11/2006
+	Aperfeicoamento das funcoes de cores
+09/11/2006
+	Correcoes para converter inteiros para caractere nas opcoes de escolha
+	Correcao para avisar o usuario quando digitar uma resposta invalida e permanecer na pergunta
+11/11/2006
+	Opcao para o usuario abandonar o simulado a qualquer momento, mostrando o
+	resultado.
+	Rotina para exibir informacoes sobre o sistema.
+	Gravacao do resultado em arquivo.
+	Digitacao do nome do usuario na entrada do sistema.
+13/11/2006
+	Gravacao da data no arquivo resultados.dat
+14/11/2006
+	Criacao da rotina para criacao do arquivo ranking.dat para selecionar quem mais acertou e errou.
+15/11/2006
+	Ajustes nos calculos de media na tela de resultados.
+16/11/2006
+	Correcao do erro ao digitar um mes que nao tem resultados, dava erro ao dividir as medias por zero
